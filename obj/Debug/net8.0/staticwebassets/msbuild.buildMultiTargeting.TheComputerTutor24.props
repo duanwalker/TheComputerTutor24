@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\TheComputerTutor24.props" />
+</Project>
