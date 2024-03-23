@@ -42,7 +42,6 @@ C:\Users\duwalke\OneDrive - Microsoft\Documents\Code Repository Clone\TheCompute
 C:\Users\duwalke\OneDrive - Microsoft\Documents\Code Repository Clone\TheComputerTutor24\TheComputerTutor24\obj\Debug\net8.0\TheComputerTutor24.csproj.AssemblyReference.cache
 C:\Users\duwalke\OneDrive - Microsoft\Documents\Code Repository Clone\TheComputerTutor24\TheComputerTutor24\obj\Debug\net8.0\TheComputerTutor24.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\duwalke\OneDrive - Microsoft\Documents\Code Repository Clone\TheComputerTutor24\TheComputerTutor24\obj\Debug\net8.0\TheComputerTutor24.sourcelink.json
-C:\Users\duwalke\OneDrive - Microsoft\Documents\Code Repository Clone\TheComputerTutor24\TheComputerTutor24\obj\Debug\net8.0\TheComputerTutor24.csproj.CopyComplete
 C:\Users\duwalke\OneDrive - Microsoft\Documents\Code Repository Clone\TheComputerTutor24\TheComputerTutor24\bin\Debug\net8.0\Azure.Core.dll
 C:\Users\duwalke\OneDrive - Microsoft\Documents\Code Repository Clone\TheComputerTutor24\TheComputerTutor24\bin\Debug\net8.0\Azure.Identity.dll
 C:\Users\duwalke\OneDrive - Microsoft\Documents\Code Repository Clone\TheComputerTutor24\TheComputerTutor24\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
@@ -144,3 +143,4 @@ C:\Users\duwalke\OneDrive - Microsoft\Documents\Code Repository Clone\TheCompute
 C:\Users\duwalke\OneDrive - Microsoft\Documents\Code Repository Clone\TheComputerTutor24\TheComputerTutor24\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\Users\duwalke\OneDrive - Microsoft\Documents\Code Repository Clone\TheComputerTutor24\TheComputerTutor24\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\Users\duwalke\OneDrive - Microsoft\Documents\Code Repository Clone\TheComputerTutor24\TheComputerTutor24\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\duwalke\OneDrive - Microsoft\Documents\Code Repository Clone\TheComputerTutor24\TheComputerTutor24\obj\Debug\net8.0\TheCompu.BB8A9A99.Up2Date
